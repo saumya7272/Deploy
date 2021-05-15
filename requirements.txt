@@ -41,7 +41,6 @@ Pygments
 pyparsing
 pyrsistent
 python-dateutil
-pywin32==227
 pywinpty==0.5.7
 pyzmq==20.0.0
 Send2Trash
